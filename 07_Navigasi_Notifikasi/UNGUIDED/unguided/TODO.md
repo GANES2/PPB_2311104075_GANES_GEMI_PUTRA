@@ -1,0 +1,4 @@
+- [x] Create a list of promo images in home_page.dart
+- [x] Update PageView to use AssetImage for local images, cycling through iPhone 17 Pro.png and Mac.png
+- [x] Change overlay text to "Promo Special iPhone 17 Pro & Mac"
+- [x] Test the app to ensure images display correctly
