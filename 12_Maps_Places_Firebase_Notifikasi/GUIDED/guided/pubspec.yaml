@@ -1,0 +1,16 @@
+name: praktikum12_maps_guided
+description: Praktikum 12 - Maps and Places (GUIDED ONLY)
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  google_maps_flutter: ^2.6.1
+  google_maps_flutter_android: ^2.12.1
+  google_maps_flutter_platform_interface: ^2.9.0
+
+flutter:
+  uses-material-design: true

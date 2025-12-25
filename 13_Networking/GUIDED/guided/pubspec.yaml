@@ -1,0 +1,15 @@
+
+name: praktikum13_getx
+description: Praktikum 13 Networking - GetX Guided
+publish_to: 'none'
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+  get: ^4.6.5
+
+flutter:
+  uses-material-design: true
